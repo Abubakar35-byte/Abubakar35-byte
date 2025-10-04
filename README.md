@@ -9,7 +9,7 @@ Data Analyst skilled in Power BI, SQL, Excel, and Looker Studio, with hands-on e
 
 ## 🎓 Education
 - B.Sc. in Computer Science
-University of central punjab, lahore 
+- University of central punjab, lahore 
 - Mar 2022 – Jan 2026 
 - Relevant Coursework: Qualitative Computational Reasoning, Artificial Intelligence, Software Engineering, Data Science, Big Data Analytics, Computer Vision, Entrepreneurship.
                 
