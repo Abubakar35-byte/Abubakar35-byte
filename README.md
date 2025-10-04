@@ -1,8 +1,5 @@
 ## 👋 Hi, I'm Abu Bakar!
 
-🎯 **Aspiring Data Analyst** with hands-on experience in **Power BI,Tableau, SQL, Excel, and Looker Studio.**  
-I love turning raw data into clear insights and interactive dashboards that drive smart decisions.
-### 🧩 What I’m Working On
-- Building dashboards in **Power BI & Excel**
-- Practicing **SQL data analysis and joins**
-- Learning **Advanced DAX** and **data modeling**
+Data Analyst | Power BI | SQL | Excel | Looker Studio | Python (Basics)
+📍 Lahore, Pakistan | 📱 +92 304 4362665 | ✉️ az108506@gmail.com
+www.linkedin.com/in/m-abu-bakar-302036249
