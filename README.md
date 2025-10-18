@@ -42,6 +42,12 @@ Designed a **dynamic dashboard** highlighting accident causes, time-based severi
 Combined **Excel** and **SQL** to analyze pizza sales data, identifying top-selling pizzas, revenue patterns, and customer preferences.  
 Developed an **interactive Excel dashboard** supported by **SQL queries** to calculate KPIs like total revenue, average order value, and category-wise performance — providing data-driven insights for business growth.  
 
+**Coffee Shop Sales Dashboard using Power BI, Excel, and SQL ([GitHub](https://github.com/Abubakar35-byte/Coffee-Shop-Sales-Dashboard))**  
+This project focuses on analyzing and visualizing coffee shop sales data to identify business insights and performance trends.  
+Using **Power BI**, **Excel**, and **SQL**, the project explores sales performance across different product categories, time periods, and customer segments.  
+The interactive dashboard highlights KPIs such as **total revenue**, **average order value**, **top-selling products**, and **peak sales hours**, enabling data-driven decision-making.  
+By combining SQL-based data processing with Power BI visualizations, the dashboard provides a comprehensive view of business operations and customer behavior, helping improve profitability and marketing strategies.  
+
 ## 🛠️ Technical Skills  
 
 <p align="center">
