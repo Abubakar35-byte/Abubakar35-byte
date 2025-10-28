@@ -52,10 +52,13 @@ By combining SQL-based data processing with Power BI visualizations, the dashboa
 This project focuses on analyzing and visualizing **Meta (Facebook & Instagram) advertising campaign data** to evaluate performance and improve marketing effectiveness.  
 Using **Power BI** and **Excel**, the dashboard provides insights into **impressions, clicks, conversions, CTR (Click-Through Rate), and ROI** across multiple campaigns and audiences.  
 It highlights KPIs such as **total ad spend**, **conversion rate**, **cost per result**, and **engagement trends**, empowering marketers to make data-driven optimizations.  
-By integrating structured data analysis in Excel with dynamic Power BI visualizations, the project delivers a clear, interactive view of ad performance, helping businesses enhance targeting strategies and maximize advertising returns.  
+By integrating structured data analysis in Excel with dynamic Power BI visualizations, the project delivers a clear, interactive view of ad performance, helping businesses enhance targeting strategies and maximize advertising returns.
 
-
-
+**Bank Loan Report Dashboard using Power BI, Excel, and SQL ([GitHub](https://github.com/Abubakar35-byte/Bank-Loan-Report-Dashboard))**  
+This project focuses on analyzing and visualizing bank loan data to assess overall lending performance, borrower trends, and financial health.  
+Using **Power BI**, **Excel**, and **SQL**, the dashboard provides insights into total loan applications, funded amounts, repayments, and loan status distributions across different customer segments.  
+It highlights KPIs such as **Total Loan Applications, Funded Amount, Amount Received, Average Interest Rate**, and **Bad Loan Percentage**, enabling banks to track performance and identify high-risk areas.  
+By combining structured data analysis in SQL and Excel with interactive Power BI visualizations, the project delivers a comprehensive view of loan metrics—helping financial institutions make informed, data-driven decisions, optimize lending strategies, and manage risk effectively.  
 
 ## 🛠️ Technical Skills  
 
