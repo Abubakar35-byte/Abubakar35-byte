@@ -48,6 +48,15 @@ Using **Power BI**, **Excel**, and **SQL**, the project explores sales performan
 The interactive dashboard highlights KPIs such as **total revenue**, **average order value**, **top-selling products**, and **peak sales hours**, enabling data-driven decision-making.  
 By combining SQL-based data processing with Power BI visualizations, the dashboard provides a comprehensive view of business operations and customer behavior, helping improve profitability and marketing strategies.  
 
+**Meta Ad Performance Dashboard using Power BI and Excel ([GitHub](https://github.com/Abubakar35-byte/Meta-Ad-Performance-Dashboard))**  
+This project focuses on analyzing and visualizing **Meta (Facebook & Instagram) advertising campaign data** to evaluate performance and improve marketing effectiveness.  
+Using **Power BI** and **Excel**, the dashboard provides insights into **impressions, clicks, conversions, CTR (Click-Through Rate), and ROI** across multiple campaigns and audiences.  
+It highlights KPIs such as **total ad spend**, **conversion rate**, **cost per result**, and **engagement trends**, empowering marketers to make data-driven optimizations.  
+By integrating structured data analysis in Excel with dynamic Power BI visualizations, the project delivers a clear, interactive view of ad performance, helping businesses enhance targeting strategies and maximize advertising returns.  
+
+
+
+
 ## 🛠️ Technical Skills  
 
 <p align="center">
